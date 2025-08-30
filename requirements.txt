@@ -1,0 +1,9 @@
+numpy
+pandas
+doubleml
+scikit-learn
+econml
+pytest
+pylint
+pytest-cov
+nbval
